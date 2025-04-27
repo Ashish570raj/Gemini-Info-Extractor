@@ -1,0 +1,5 @@
+# Ignore virtual environment
+my_virt/
+
+# Ignore environment files
+.env
